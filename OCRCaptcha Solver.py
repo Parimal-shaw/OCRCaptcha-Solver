@@ -22,7 +22,7 @@ class BurpExtender(IBurpExtender, ITab ,IHttpListener,IContextMenuFactory, IMess
         
 
         # Set the extension name
-        callbacks.setExtensionName("Py-Ocr")
+        callbacks.setExtensionName("OCRCaptcha Solver")
         
         self._main_panel = JPanel(BorderLayout())   
 
