@@ -23,7 +23,7 @@ Follow these steps to install and set up the OCRCaptcha Solver tool:
 4. **Install the Burp Suite Extension**
 
     Open Burp Suite and navigate to the Extensions tab.
-    Click on Add and select the OCRCaptcha Solver.exe file.
+    Click on Add and select the OCRCaptcha Solver.py file.
     The extension will be installed and ready to use.
 
 
